@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Diego Alberto Garcia Saavedra.
+### Amante de los juegos de carreras. 
+
+soy **Alumno** del *Colegio* ***San Viator***.
+
+Estamos aprendiendo:
+ 
+1. Bases de datos
+2. Programacion
+3. Sistemas informaticos
+4. Entornos de desarrollo
+
+También estamos estudiando: 
+- Mark Down
+- Diagramas E/R
+- Bucles
+
+[Web del colegio](https://sanviatorvalladolid.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
