@@ -34,6 +34,11 @@ También estamos estudiando:
 
 [Web del colegio](https://sanviatorvalladolid.com)
 
+Instrucciones para crear un fichero:
+
+1. Situate en el directorio que quieras con el comando `cd <directorio>`
+
+
 
 
 
